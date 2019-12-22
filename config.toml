@@ -34,6 +34,13 @@ paginate = 10
     url  = "/about/facilities/"
     weight = 1
 
+
+[[menu.main]]
+    parent = "about"
+    name = "committee"
+    url  = "/about/committee/"
+    weight = 2
+
 [[menu.main]]
     parent = "about"
     name = "legal"
@@ -59,25 +66,16 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    identifier = "contacts"
-    name = "Contacts"
-    url  = "/contacts/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "coaching"
     name = "Coaching"
     url  = "/coaching/"
     weight = 4
 
 [[menu.main]]
-    identifier = "competition"
     name = "Competition"
     url  = "/competition/"
     weight = 5
 
 [[menu.main]]
-    identifier = "social"
     name = "Social"
     url  = "/social/"
     weight = 6
@@ -89,7 +87,6 @@ paginate = 10
     weight = 7
 
 [[menu.main]]
-    identifier = "members"
     name = "Members"
     url  = "/members/"
     weight = 8

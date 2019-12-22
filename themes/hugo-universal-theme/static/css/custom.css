@@ -29,3 +29,7 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+
+img {
+  padding: 4ex;
+}
