@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HE Parker Reserve Tennis Club</title>
+    <link>http://hprtc.org.au/</link>
+    <description>Recent content on HE Parker Reserve Tennis Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jul 2018 22:42:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://hprtc.org.au/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Committee Members</title>
+      <link>http://hprtc.org.au/committee-members/</link>
+      <pubDate>Mon, 23 Jul 2018 22:42:24 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/committee-members/</guid>
+      <description>`Your Current Committee `
+ </description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>http://hprtc.org.au/news/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>http://hprtc.org.au/news/linked-post/</guid>
+      <description>I&#39;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>http://hprtc.org.au/news/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>http://hprtc.org.au/news/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>http://hprtc.org.au/news/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://hprtc.org.au/news/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>http://hprtc.org.au/news/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://hprtc.org.au/news/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Where to find us</title>
+      <link>http://hprtc.org.au/where-to-find-us/</link>
+      <pubDate>Wed, 26 Sep 2012 12:41:57 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/where-to-find-us/</guid>
+      <description>Where to find us MAIL TO: H.E. Parker Reserve Tennis Club PO Box 695 Heathmont Vic 3135
+EMAIL: enquiries@hprtc.org.au</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>http://hprtc.org.au/contacts/</link>
+      <pubDate>Tue, 09 Aug 2011 20:16:15 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/contacts/</guid>
+      <description>Contact our Club Here you can find the various ways to get in contact with club including:
+  A full list of our current committee members
+  Our postal address, phone numbers and maps to find us
+  Details on our sponsors
+  [contact-form subject=&#39;Website contact form&amp;rsquo;][contact-field label=&#39;Name&amp;rsquo; type=&#39;name&amp;rsquo; required=&#39;1&amp;rsquo;/][contact-field label=&#39;Email&amp;rsquo; type=&#39;email&amp;rsquo; required=&#39;1&amp;rsquo;/][contact-field label=&#39;Website&amp;rsquo; type=&#39;url&amp;rsquo;/][contact-field label=&#39;Comment&amp;rsquo; type=&#39;textarea&amp;rsquo; required=&#39;1&amp;rsquo;/][contact-field label=&#39;Subject&amp;rsquo; type=&#39;select&amp;rsquo; options=&#39;Membership,Website Feedback,Adult Competition,Junior Compeition,Maintenance,Social&amp;rsquo;/][/contact-form]</description>
+    </item>
+    
+    <item>
+      <title>Constitution &amp; By-Laws</title>
+      <link>http://hprtc.org.au/about/constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/about/constitution/</guid>
+      <description>An up-to-date copy of these By-laws is kept on display on the noticeboard inside the Clubhouse. A copy will also be made available to any member who requests them. To receive an electronic copy please email secretary@hprtc.org.au.
+Changes to By-laws - Additions, deletions and modifications to these By-laws may be made by the Management Committee at any time. All such changes are to be recorded in the Minutes as a motion and passed by the meeting.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://hprtc.org.au/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/contact/</guid>
+      <description>We are here to help you Are you interested in social tennis, want to be part of a tennis team, or want to join our club?
+Please feel free to contact us using the form below.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://hprtc.org.au/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Life Members</title>
+      <link>http://hprtc.org.au/about/lifemembers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/about/lifemembers/</guid>
+      <description>Life membership is the highest honour our club can bestow on a member and as such, it not awarded lightly.
+   Year Member     1977 Graham Hayes   1979 Norm Sanderson   1985 Colin Taylor   1986 Marie McBurney   1986 Noel Beanland   1987 Beth Rigg   1991 Val Taylor   1993 Joy Rollason   1998 Mal McDonald   1999 John Rolfe   2001 Dianne Phillips   2007 Carole Hamilton   2007 Chris Wishart   2012 Don Hamilton   2012 Joan Pratt   2012 Sue Moreland     Nominations are considered by the committee annually (if received).</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>http://hprtc.org.au/news/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/news/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Our Facilities</title>
+      <link>http://hprtc.org.au/about/facilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/about/facilities/</guid>
+      <description>Courts We have six synthetic clay courts, all of which are flood lit. The most recent courts were supplied by Aste who did a fantastic job.
+Court and clubhouse hire is subject to availability.
+These are the following court hire charges for members and visitors who attend with members:
+Members:
+  Day: No Charge
+  Night: $8.00 per court, per hour
+  Visitors who attend with a member:</description>
+    </item>
+    
+    <item>
+      <title>Our History</title>
+      <link>http://hprtc.org.au/about/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/about/history/</guid>
+      <description>HE Parker Reserve Tennis Club when the Heathmont Methodist Tennis Club was granted land alongside the Dandenong Creek at HE Parker Reserve by the Ringwood City Council to form a public tennis club.
+Four courts and a log cabin clubhouse were built and the Clubhouse was officially opened in 1975 although conditions were still rather primitive. By 1984, 2 more courts were built and shortly after that 3 courts were floodlit for night tennis.</description>
+    </item>
+    
+    <item>
+      <title>Terms and Conditions</title>
+      <link>http://hprtc.org.au/about/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hprtc.org.au/about/legal/</guid>
+      <description>Heathmont Parker Reserve Tennis Club’s Website (“Website”) is owned and operated by Heathmont Parker Reserve Tennis Club and is hosted on a server in the State of Victoria. The use of the Website and any material or information contained in the Website (“Material”) is governed by the law of the State of Victoria, Australia.
+By using or accessing any part of the Website or the Material you agree to be bound by these terms</description>
+    </item>
+    
+  </channel>
+</rss>
