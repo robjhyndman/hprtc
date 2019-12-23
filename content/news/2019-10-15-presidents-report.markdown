@@ -2,9 +2,10 @@
 author: Sue Moreland
 date: 2019-10-15 21:38:18+00:00
 layout: post
-slug: president-report-oct-2019
 title: President's report
 banner: "media/IMAG0871.jpg"
+tags: 
+  - president's report
 ---
 
 Greetings fellow tennis players!  
@@ -16,7 +17,7 @@ We are very excited to have finally have an updated team uniform due to the trem
 
 We owe thanks to Bendigo Bank once again for generously providing the funding for new nets in this years’ round of community grants. They are much needed as I am sure you have all noticed that some shots go through our nets!
 
-![](http://www.hprtc.org.au/wp-content/uploads/2019/10/IMAG0871.jpg)
+![](/media/IMAG0871.jpg)
 
 Our local MP Jackson Taylor joined us for a brief hit last Saturday. He noted our parking woes and was very encouraging with our future goals, offering to assist in any way he is able. He is a dynamic 27-year-old with a bright future and enthusiasm for helping his community. 
 
@@ -28,10 +29,7 @@ So, remember to join whichever group you enjoy your tennis with or join us for a
 
 FREE! MULCH Help yourselves to the mulch pile behind the club. We have way too much for our needs. 
 
-
 Happy Hitting! 
 
 Sue Moreland
-
-
 

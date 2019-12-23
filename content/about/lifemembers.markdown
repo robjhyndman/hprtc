@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /about/lifemembers
 slug: lifemembers
 title: Life Members

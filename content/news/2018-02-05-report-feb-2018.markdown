@@ -1,14 +1,10 @@
 ---
-author: admin
-comments: true
+author: Sue Moreland
 date: 2018-02-05 10:44:19+00:00
 layout: post
-link: http://www.hprtc.org.au/president/report-feb-2018/
-slug: report-feb-2018
 title: President's report
-wordpress_id: 1851
-categories:
-- From the President
+tags: 
+  - president's report
 ---
 
 Greetings,

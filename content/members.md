@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /members/
 slug: members
 title: Memberships

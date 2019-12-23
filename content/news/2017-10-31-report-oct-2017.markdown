@@ -1,14 +1,10 @@
 ---
-author: admin
-comments: true
+author: Sue Moreland
 date: 2017-10-31 10:40:12+00:00
 layout: post
-link: http://www.hprtc.org.au/president/report-oct-2017/
-slug: report-oct-2017
 title: President's report
-wordpress_id: 1848
-categories:
-- From the President
+tags: 
+  - president's report
 ---
 
 Greetings,

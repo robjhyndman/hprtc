@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /competition/adult/
 slug: adult
 title: Adult Competition

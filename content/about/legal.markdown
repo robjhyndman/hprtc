@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /about/legal
 slug: legal
 title: Terms and Conditions

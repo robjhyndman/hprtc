@@ -1,10 +1,10 @@
 ---
 date: 2019-10-15 22:39:31+00:00
 layout: post
-link: http://www.hprtc.org.au/uncategorized/hprtc-uniforms-available/
-slug: hprtc-uniforms-available
 banner: "/media/shirts.jpg"
 title: HPRTC Uniforms Available
+tags:
+  - uniforms
 ---
 
 Full size range available from 5XS through to 5XL

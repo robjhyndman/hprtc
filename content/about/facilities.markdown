@@ -1,9 +1,7 @@
 ---
-layout: page
 link: /about/facilities
 slug: facilities
 title: Our Facilities
-tags: ["courts"]
 ---
 
 ## Courts

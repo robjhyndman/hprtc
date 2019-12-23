@@ -1,14 +1,9 @@
 ---
-author: admin
-comments: true
 date: 2018-02-05 10:48:53+00:00
 layout: post
-link: http://www.hprtc.org.au/general/social-news-and-fundraisers/
-slug: social-news-and-fundraisers
 title: Social news and fundraisers
-wordpress_id: 1856
-categories:
-- General News
+tags:
+- social
 ---
 
 Thanks to all members who supported four social and fundraising activities towards the end of 2017.

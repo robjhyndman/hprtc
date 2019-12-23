@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /about/history
 slug: history
 title: Our History

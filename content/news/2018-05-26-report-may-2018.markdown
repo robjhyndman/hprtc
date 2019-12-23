@@ -1,14 +1,10 @@
 ---
-author: admin
-comments: true
+author: Sue Moreland
 date: 2018-05-26 02:43:12+00:00
 layout: post
-link: http://www.hprtc.org.au/president/report-may-2018/
-slug: report-may-2018
 title: President's report
-wordpress_id: 1871
-categories:
-- From the President
+tags: 
+  - president's report
 ---
 
 Wintery Greetings.

@@ -1,10 +1,10 @@
 ---
 date: 2019-06-13 00:38:47+00:00
 layout: post
-slug: club-championship-results
 title: Club Championship Results
-categories:
+tags:
 - Competition
+- club championships
 banner: "/media/club_championships_2019.png"
 ---
 

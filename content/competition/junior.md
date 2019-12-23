@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /competition/junior
 slug: junior
 title: Junior Competition

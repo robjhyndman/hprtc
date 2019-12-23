@@ -1,40 +1,14 @@
 ---
-author: admin
-comments: true
 date: 2019-04-10 08:21:47+00:00
 layout: post
-link: http://www.hprtc.org.au/juniors/junior-tennis-meeting-23-apr-2019/
-slug: junior-tennis-meeting-23-apr-2019
 title: Junior tennis meeting (23 April)
-wordpress_id: 1989
-categories:
+tags:
 - Juniors
 ---
 
-
-
-
 All parents and junior players are cordially invited to a Junior Convenor’s meeting on 23 April at the club house – 6:30 to 7pm.  
 
-
-
-
-
-
-
-
 Topics for discussion include:
-
-
-
-
-
-
-
-  * 
-
-
-
 
   * Teams: What are the teams for the upcoming season?
   * Ball Money: Ball money is now due for all juniors (JDC comp excluded).
@@ -58,11 +32,4 @@ Topics for discussion include:
   * Junior Convenor – what we’re there for
     * Support for all players
     * Conflict resolution
-
-
-
-
-
-
-
 

@@ -1,5 +1,4 @@
 ---
-layout: page
 link: /about/committee
 slug: committee
 title: Committee Members
