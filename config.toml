@@ -34,7 +34,6 @@ paginate = 10
     url  = "/about/facilities/"
     weight = 1
 
-
 [[menu.main]]
     parent = "about"
     name = "committee"
@@ -61,7 +60,7 @@ paginate = 10
 
 [[menu.main]]
     parent = "about"
-    name = "lifemembers"
+    name = "life members"
     url  = "/about/lifemembers/"
     weight = 4
 
@@ -71,8 +70,21 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    identifier = "competition"
     name = "Competition"
     url  = "/competition/"
+    weight = 5
+
+[[menu.main]]
+    parent = "competition"
+    name = "Junior Competition"
+    url  = "/competition/junior/"
+    weight = 5
+
+[[menu.main]]
+    parent = "competition"
+    name = "Adult Competition"
+    url  = "/competition/adult/"
     weight = 5
 
 [[menu.main]]
@@ -163,7 +175,7 @@ paginate = 10
     longitude = "145.253134"
 
 [Permalinks]
-    blog = "/news/:year/:month/:day/:filename/"
+    news = "/news/:slug/"
 
 # Enable or disable top bar with social icons
 [params.topbar]

@@ -16,10 +16,12 @@ td, th {
 
 img[alt$=">"] {
   float: right;
+  padding-left: 4ex;
 }
 
 img[alt$="<"] {
   float: left;
+  padding-right: 4ex;
 }
 
 img[alt$="><"] {
@@ -30,6 +32,14 @@ img[alt$="><"] {
   float: none!important;
 }
 
-img {
-  padding: 4ex;
+h1, .h1, h2, .h2, h3, .h3 {
+  clear: both;
+}
+
+h3, .h3 {
+  padding-top: 1.5ex;
+}
+
+body {
+  font-size: 16px;
 }

@@ -13,7 +13,7 @@ title: Committee Members
 | Vice President | Rob Hyndman                 | 0458 903 204  | vice.president@hprtc.org.au      |
 | Assistant Secretary | Shaun Mitchell         | 0418 531 421  | assistant.secretary@hprtc.org.au |
 | Assistant Treasurer | Peter O’Connor         | 0417 144 374  | assistant.treasurer@hprtc.org.au |
-| Junior Convenor | James Wutherspoon          | 0407 357 318  | juniors@hprtc.org.au             |
+| Junior Convenor | James Wotherspoon          | 0407 357 318  | juniors@hprtc.org.au             |
 | Assistant Junior Convenor | Luke Humphris    | 0409 905 366  | juniors@hprtc.org.au             |
 | IT Officer | Shaun Mitchell                  | 0418 531 421  | assistant.secretary@hprtc.org.au |
 | Maintenance Convenor | Mal McDonald          | 0407 303 407  | maintenance@hprtc.org.au         |
