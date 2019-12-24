@@ -164,8 +164,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "2 January 2006"
 
-    logo = "media/Club-Logo-Small-transparent.png"
-    logo_small = "media/Club-Logo-Small-transparent.png"
+    logo = "media/hprtc_logo_small.png"
+    logo_small = "media/Club-Logo-Medium-transparent.png"
     address = """<p class="text-uppercase"><strong>HE Parker Reserve Tennis Club</strong>
         <br>PO Box 695, Heathmont,
         <br>Victoria, Australia
