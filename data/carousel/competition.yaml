@@ -1,5 +1,6 @@
-weight: 2
+weight: 3
 title: "Competition"
 description: >
   <p>We have large number of teams playing in a range of sections. Let us help you find a competition to join. </p>
-image: "media/IMG_6204.jpg"
+image: "media/competition.jpg"
+link: competition
