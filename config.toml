@@ -127,14 +127,14 @@ paginate = 10
 [params]
     viewMorePostLink = "/news/"
     author = "HPRTC"
-    defaultKeywords = ["devows", "hugo", "go"]
+    defaultKeywords = ["tennis","Heathmont"]
     mainSections = ["news"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Official website of Heathmont Parker Reserve Tennis Club Inc"
 
     # Social media
     facebook_site = "hprtc" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     #twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "media/Club-Logo-Medium-transparent.png"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
