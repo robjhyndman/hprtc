@@ -3,14 +3,14 @@ author: Sue Moreland
 date: 2019-12-01
 layout: post
 title: President's report
-banner: "media/IMAG0871.jpg"
+banner: "media/auray_hu.png"
 tags: 
   - president's report
 ---
 
 Christmas greetings everyone. The competition season has now ended for everyone, so the courts are available for social play until February. Congratulations to our Monday section 1 team who won their 6th flag in a row. Fantastic effort to all the teams who made it to the finals.
 
-Congratulations to Auray Hu who won the Local Sporting Champions - grant for the 2019 School Sport Australia U12 Tennis Championships. 
+![image alt >](/media/auray_hu.png) Congratulations to Auray Hu who won the Local Sporting Champions - grant for the 2019 School Sport Australia U12 Tennis Championships. 
 
 Organised social play will kick off each Wednesday evening at 7.30pm during this holiday break. Anyone wishing to play on either Christmas Day or New Year’s Eve please contact me on 0425711364 and I will advise if there is enough interest to play on these evenings.
 
