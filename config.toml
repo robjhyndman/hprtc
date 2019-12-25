@@ -221,11 +221,11 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Sponsors"
     subtitle = ""
 
 [params.recent_posts]
