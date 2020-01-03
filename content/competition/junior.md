@@ -6,7 +6,7 @@ title: Junior Competition
 
 ### General Information
 
-HPRTC junior completion is run through Eastern Region Tennis (ERT). We have a strong number of juniors with ages from 8 to 17 and a big mix of skills and experience. Eastern Region offer a wide variety of tennis competitions for Juniors in the Eastern Suburbs of Melbourne on Saturday (8:30am start), boys and girls combinations in either Doubles or Single/Doubles formats.
+HPRTC junior completion is run through Eastern Region Tennis (ERT). We have a strong number of juniors with ages from 8 to 17 and a big mix of skills and experience. Eastern Region offer a wide variety of tennis competitions for Juniors in the Eastern Suburbs of Melbourne on Saturdays and Sundays, boys and girls combinations in either Doubles or Single/Doubles formats.
 
 Teams are selected at the discretion of the Junior Selection Committee. Each team requires a parent to be a team manager to be a contact person for the team. Should no parent be willing to take on this role for a particular team, that team will be withdrawn prior to the start of the season. Parents will also need to commit to a rotating roster for manning the canteen when playing at home. There are plenty of old hands to help you on your first couple of time and it is usually good fun.
 
@@ -14,7 +14,7 @@ Teams are selected at the discretion of the Junior Selection Committee. Each tea
 
 ### Contact Information
 
-**Junior Convener**: James Wutherspoon  
+**Junior Convener**: James Wutherspoon
 [junior@hprtc.org.au](mailto:junior@hprtc.org.au) or 0407 357 318
 
 **President**: Sue Moreland
@@ -35,7 +35,7 @@ Players should understand that:
 ### Teams and team selection
 
 Selecting teams for competition can often be a contentious process but shouldn't be. There are some guiding principles that the selection committee uses when selecting teams. These guidelines are applied in the following order:
-  
+
   1. Skill, age and ability
   2. Team availability
   3. Friendship groups
@@ -51,6 +51,6 @@ Junior players are considerably more robust that us parents give them credit for
 
 The junior selection committee is generally made up of the Junior Convenor, Assistant Junior Convenor and the coaches.
 
-At HE Parker, we have recently split the Junior Convenor role into two parts to reduce the load on any given parent. We have one parent who does the saturday morning duties of opening the club and organising play on the day. The other parent (normally the assistant convenor) is doing much of the paperwork, particularly at team selection time.
+The Junior Convenor role is split into two parts to reduce the load on any given parent. We have one parent who does the Saturday morning duties of opening the club and organising play on the day. The other parent (normally the assistant convenor) is doing much of the paperwork, particularly at team selection time.
 
 If you are passionate about your child's tennis or would simply like to help out, please enquire about the convenor roles or assisting on the selection committee by sending an email to [president@hprtc.org.au](mailto:president@hprtc.org.au).
