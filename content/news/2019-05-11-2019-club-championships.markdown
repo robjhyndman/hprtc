@@ -19,19 +19,19 @@ Register via [https://forms.gle/vc8c5FY6xdQqqw1v9](https://forms.gle/vc8c5FY6xdQ
 
 Categories are as follows:
 
-#1 - Men's Open Singles
-#2 - Women's Open Singles
-#3 - Men's Open Doubles
-#4 - Women's Open Doubles
-#5 - Open Mixed Doubles
-#6 - Boy's Open Singles
-#7 - Girl's Open Singles
-#8 - Boys Open Doubles
-#9 - Girls Open Doubles
-#10 - Junior Mixed Doubles
-#11 - Boys 12 & Under Hot Shots Singles
-#12 - Girls 12 & Under Hot Shots Singles
-#13 - 12 & Under Hot Shots Doubles
+  1. Men's Open Singles
+  1. Women's Open Singles
+  1. Men's Open Doubles
+  1. Women's Open Doubles
+  1. Open Mixed Doubles
+  1. Boy's Open Singles
+  1. Girl's Open Singles
+  1. Boys Open Doubles
+  1. Girls Open Doubles
+  1. Junior Mixed Doubles
+  1. Boys 12 & Under Hot Shots Singles
+  1. Girls 12 & Under Hot Shots Singles
+  1. 12 & Under Hot Shots Doubles
 
 **ENTRIES CLOSE MONDAY 27TH MAY @ 5PM**
 
