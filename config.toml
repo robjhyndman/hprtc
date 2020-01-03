@@ -171,6 +171,8 @@ paginate = 10
     address = """<p class="text-uppercase"><strong>HE Parker Reserve Tennis Club</strong>
         <br>PO Box 695, Heathmont,
         <br>Victoria, Australia
+        <br>
+        <br><a href="https://www.facebook.com/hprtc/"><img src = "/hprtc/img/facebook_logo.png" width=40px alt = "Facebook"></a>
       </p>
       """
     latitude = "-37.836193"
@@ -182,7 +184,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = false
-    text = """<p class="hidden-sm hidden-xs"><img src="/media/Club-Logo-Small-transparent.png" width=30px><font size="+1"><b>Heathmont Parker Reserve Tennis Club</b></font></p>
+    text = """
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
