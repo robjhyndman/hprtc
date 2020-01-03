@@ -1,13 +1,15 @@
-baseurl = "http://hprtc.org.au"
+baseurl = "http://robjhyndman.com/hprtc/"
 title = "Heathmont Parker Reserve Tennis Club"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-# disqusShortname = "devcows"
+# disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+relativeURLs = true
+canonifyURLs = true
 
 # Define the number of posts per page
 paginate = 10
@@ -164,8 +166,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "2 January 2006"
 
-    logo = "media/hprtc_logo_small.png"
-    logo_small = "media/Club-Logo-Medium-transparent.png"
+    logo = "media/hprtc_logo.png"
+    logo_small = "media/hprtc_logo_small.png"
     address = """<p class="text-uppercase"><strong>HE Parker Reserve Tennis Club</strong>
         <br>PO Box 695, Heathmont,
         <br>Victoria, Australia
@@ -221,11 +223,11 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Sponsors"
     subtitle = ""
 
 [params.recent_posts]
