@@ -4,31 +4,26 @@ slug: members
 title: Memberships
 ---
 
-Membership remains the main source of income for the club.  It also forms the basis of our sense of community.  Long term access to the club can only be gained through membership.  The committee works very hard to ensure the fees for membership remain affordable and sustainable for the club.
+Membership remains the main source of income for the club.  It also forms the basis of our sense of community. Long term access to the club can only be gained through membership. The committee works very hard to ensure the fees for membership remain affordable and sustainable for the club.
 
 Memberships are annual and apply from July 1st to June 30th.
 
 ### Membership Forms
 
-You can renew or apply for a new membership online via the Tennis Victoria website (you will need your Tennis ID):
+Please fill in the club membership form and send it with payment to
 
-[![Register Online](/media/Register.png)](https://my.tennis.com.au/OnlineMembership/663031)
+> The Treasurer, PO Box 695, Heathmont, 3135. (treasurer@hprtc.org.au)
 
-Alternatively, fill in the club membership form and send it with payment to 
+  [![wordicon](/media/wordicon.png) MS-Word version](https://drive.google.com/file/d/1ofi8rTnFlxGxiDII64IfxZamjySx_cS3/view?usp=sharing)
 
-The Treasurer, PO Box 695, Heathmont, 3135. (treasurer@hprtc.org.au)
-
-[![wordicon](/media/wordicon.png) MS-Word version](https://drive.google.com/file/d/1ofi8rTnFlxGxiDII64IfxZamjySx_cS3/view?usp=sharing)
-
-[![pdf_icon](/media/pdf_icon.png) PDF version](https://drive.google.com/file/d/1RSQAlz1lMoT8DsZB4m_LLYqve1sg4o5B/view?usp=sharing)
+  [![pdf_icon](/media/pdf_icon.png) PDF version](https://drive.google.com/file/d/1RSQAlz1lMoT8DsZB4m_LLYqve1sg4o5B/view?usp=sharing)
 
 ### Who requires a membership?
 
   1. Any adult (18+) playing social tennis more than 5 times.
-  2. Any adult playing competition more than 5 times in a season (includes emergency players).
-  3. Any adult receiving coaching at the club for more than 5 sessions.
-  4. Any junior playing Saturday morning competition.
-  5. Any junior being coached for more than 1 school term.
+  2. Any adult receiving coaching at the club for more than 5 sessions.
+  3. Any junior playing Saturday or Sunday competition.
+  4. Any junior being coached for more than 1 school term.
 
 Please note: These grace periods do not apply if the adult or junior has been a member previously.
 
@@ -47,14 +42,14 @@ Please note the fees shown are for July 2019 to June 2020 (**Full year**)
 
 _Please note that the half-year fee is only available for members joining after 1st January._
 
-Our club is affiliated with [Tennis Victoria](http://www.tennis.com.au/vic/). Our affiliation requires all members to have take out [personal accident insurance](http://www.tennis.com.au/vic/clubs/affiliation/insurance).
+Our club is affiliated with [Tennis Victoria](http://www.tennis.com.au/vic/).  Our affiliation provides all members with personal accident insurance at tennis.
 
 ### Gate Keys
 
-Gate keys are available to all adult members for a $50 deposit. Members holding gate keys may use the courts whenever they are free. There are some conditions to having a gate key.
-	
+Gate keys are available to all adult members for a $50 deposit. Members holding gate keys may use the courts whenever they are free. There are some conditions to holding a gate key.
+
   1. Keys are available to adult members only.
-  2. Members must be financial to receive and keep a key.
+  2. Members must be financial to receive and hold a key.
   3. Members must be over 18.
   4. Keys are not to be lent or shared with non-members at any time
 
