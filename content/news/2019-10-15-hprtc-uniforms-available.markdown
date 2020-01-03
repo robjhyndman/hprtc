@@ -17,7 +17,7 @@ Polos: $35. (Optional: add name on top left of front at no extra cost)
 
 Shorts: $35. Skorts: $35.
 
-You may send an order by email to jespoon@bigpond.com stating Name and size remembering there are Men’s and Ladies “cuts”.  Any orders for named Polo Tops must be paid for in advance as no returns are possible on custom prints.
+You may send an order by email to jespoon@bigpond.com stating Name and size remembering there are Men’s and Ladies “cuts”. Any orders for named Polo Tops must be paid for in advance as no returns are possible on custom prints.
 
 As many of you will want to check sizing there will be a try on sizing session on Saturday 26 October after 2pm.
 

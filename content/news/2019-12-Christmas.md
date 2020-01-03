@@ -7,7 +7,7 @@ tags:
 banner: /media/christmas_2019_2.jpg
 ---
 
-We had a lovely BBQ and some social tennis on Saturday.  Here are some photos of the festivities and tennis.
+We had a lovely BBQ and some social tennis on Saturday. Here are some photos of the festivities and tennis.
 
 ![](/media/christmas_2019_2.jpg)
 ![](/media/christmas_2019_1.jpg)

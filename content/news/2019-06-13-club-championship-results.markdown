@@ -8,13 +8,13 @@ tags:
 banner: "/media/club_championships_2019.png"
 ---
 
-What a weekend!!  
+What a weekend!!
 
-With a far from ideal weather forecast, all matches were completed with lots of new & old faces which saw the weekend played in good spirit with lots of laughs and great companionship from all.  
+With a far from ideal weather forecast, all matches were completed with lots of new & old faces which saw the weekend played in good spirit with lots of laughs and great companionship from all.
 
-Highlights from the weekend included the once again wonderful selection of food on offering - sausage rolls & scones that remind you of the good old days. They don't come much better!  
+Highlights from the weekend included the once again wonderful selection of food on offering - sausage rolls & scones that remind you of the good old days. They don't come much better!
 
-The competition on court was hard & fast with some new faces and hard fought battles.  
+The competition on court was hard & fast with some new faces and hard fought battles.
 
 Results below:
 
@@ -36,8 +36,5 @@ Results below:
   * **Women’s Open Doubles** - Sue Moreland & Jamie Tulich defeated Heather McMillan & Amanda Stephens 8/3
   * **Open Mixed Doubles** - Darren Loebert & Heather McMillan def Rod & Ella Beanland 8/6
 
-
 [Some photos](/media/HEPTC-2019-club-championships.pdf)
-
-
 

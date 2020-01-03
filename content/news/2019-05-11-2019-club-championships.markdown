@@ -17,19 +17,20 @@ There will be trophies &/or prizes for all winners and runners up. Food & drinks
 
 Register via [https://forms.gle/vc8c5FY6xdQqqw1v9](https://forms.gle/vc8c5FY6xdQqqw1v9)
 
-Categories are as follows:  
-#1 - Men's Open Singles  
-#2 - Women's Open Singles  
-#3 - Men's Open Doubles  
-#4 - Women's Open Doubles  
-#5 - Open Mixed Doubles  
-#6 - Boy's Open Singles  
-#7 - Girl's Open Singles  
-#8 - Boys Open Doubles  
-#9 - Girls Open Doubles  
-#10 - Junior Mixed Doubles  
-#11 - Boys 12 & Under Hot Shots Singles  
-#12 - Girls 12 & Under Hot Shots Singles  
+Categories are as follows:
+
+#1 - Men's Open Singles
+#2 - Women's Open Singles
+#3 - Men's Open Doubles
+#4 - Women's Open Doubles
+#5 - Open Mixed Doubles
+#6 - Boy's Open Singles
+#7 - Girl's Open Singles
+#8 - Boys Open Doubles
+#9 - Girls Open Doubles
+#10 - Junior Mixed Doubles
+#11 - Boys 12 & Under Hot Shots Singles
+#12 - Girls 12 & Under Hot Shots Singles
 #13 - 12 & Under Hot Shots Doubles
 
 **ENTRIES CLOSE MONDAY 27TH MAY @ 5PM**

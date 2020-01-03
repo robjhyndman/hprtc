@@ -13,4 +13,3 @@ On 18 December 2018, the club received two grants of $2,500 each, one from Micha
   * ![](/media/P1060253.jpg)
   * ![](/media/P1060264.jpg)
 
-

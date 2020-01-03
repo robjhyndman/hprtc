@@ -6,7 +6,7 @@ tags:
 - Juniors
 ---
 
-All parents and junior players are cordially invited to a Junior Convenor’s meeting on 23 April at the club house – 6:30 to 7pm.  
+All parents and junior players are cordially invited to a Junior Convenor’s meeting on 23 April at the club house – 6:30 to 7pm.
 
 Topics for discussion include:
 

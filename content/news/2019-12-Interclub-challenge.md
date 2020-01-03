@@ -1,5 +1,5 @@
 ---
-date: 2019-12-22 
+date: 2019-12-22
 layout: post
 title: Crumbles Bakehouse 2020 Interclub Challenge
 slug: interclub-challenge
@@ -39,7 +39,6 @@ Parker Reserve TC invites senior players from Heathmont, Guy Turner & Miller Par
   * 1st v 2nd
   * 3rd v 4th
 
-
 > $25pp
 >
 >  * Afternoon tea & BBQ dinner provided on both days (BYO alcohol)
@@ -47,6 +46,5 @@ Parker Reserve TC invites senior players from Heathmont, Guy Turner & Miller Par
 >  * Aimed more so at midweek day & night comp players
 >
 > REGISTER WITH COACH BEN NOW ON 0413619028.
-
 
 [[Download flyer](/media/2020-INTERCLUB-Challenge-1.pdf)]
