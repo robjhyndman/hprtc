@@ -1,13 +1,15 @@
-baseurl = "http://hprtc.org.au"
+baseurl = "http://robjhyndman.com/hprtc/"
 title = "Heathmont Parker Reserve Tennis Club"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-# disqusShortname = "devcows"
+# disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+relativeURLs = true
+canonifyURLs = true
 
 # Define the number of posts per page
 paginate = 10
