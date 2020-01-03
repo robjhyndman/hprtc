@@ -139,7 +139,7 @@ paginate = 10
     default_sharing_image = "media/Club-Logo-Medium-transparent.png"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyDX2WJihNIKbEn6bfXtX6MVQLWD2V_kmdM"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
@@ -172,11 +172,13 @@ paginate = 10
         <br>PO Box 695, Heathmont,
         <br>Victoria, Australia
         <br>
-        <br><a href="https://www.facebook.com/hprtc/"><img src = "/hprtc/img/facebook_logo.png" width=40px alt = "Facebook"></a>
+        <br><a href="https://goo.gl/maps/uDSQuHkMRQvf7Gz46"><img src = "/hprtc/img/google_map_icon.png" width=44px alt = "Google map" style="vertical-align: text-bottom;"></a>
+        <a href="https://www.facebook.com/hprtc/"><img src = "/hprtc/img/facebook_logo.png" width=40px alt = "Facebook" style="vertical-align: text-bottom; margin-left: 7px;"></a>
       </p>
       """
     latitude = "-37.836193"
     longitude = "145.253134"
+    direction = "HE Parker Reserve Tennis Club, Heathmont Road, Heathmont VIC"
 
 [Permalinks]
     news = "/news/:slug-:month-:year"
