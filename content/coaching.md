@@ -4,9 +4,9 @@ slug: coaching
 title: Coaching
 ---
 
-![image alt <](/media/BenLongridge.png) One of the key strengths of a club is its coaches.  HE Parker prides itself on selecting great coaches who can instruct, encourage and improve our junior competition teams but also provide assistance on tennis technique for all of our members, regardless of age, gender, physical ability, fitness or experience.  We are delighted to have the services of **Ben Longridge** as our head coach.
+![image alt <](/media/BenLongridge.jpg) One of the key strengths of a club is its coaches.  HE Parker prides itself on selecting great coaches who can instruct, encourage and improve our junior competition teams but also provide assistance on tennis technique for all of our members, regardless of age, gender, physical ability, fitness or experience.  We are delighted to have the services of **Ben Longridge** as our head coach.
 
-  * Ben is a Tennis Victoria - Development Coach
+  * Ben is a Tennis Victoria - Club Professional Coach
   * Ben has a young family of his own
   * Ben was previously a junior coach at Donvale Tennis Club
 
