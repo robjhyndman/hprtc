@@ -1,4 +1,4 @@
-baseurl = "http://robjhyndman.com/hprtc/"
+baseurl = "http://hprtc.org.au/"
 title = "Heathmont Parker Reserve Tennis Club"
 theme = "hugo-universal-theme"
 themesDir = "themes"
