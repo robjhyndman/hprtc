@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-156112561-1"
 relativeURLs = true
 canonifyURLs = true
 
@@ -123,7 +123,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:enquiriers@hprtc.org.au"
+    url = "mailto:enquiries@hprtc.org.au"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -157,7 +157,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "enquiries@hprtc.org.au"
+    email = "robjhyndman@gmail.com"
     contact_form_ajax = false
 
     about_us = "<p>Heathmont Parker Reserve Tennis Club (HPRTC) is located at the end of Heathmont Road, Heathmont, Melbourne. Our aim is to provide an exceptional playing venue for all our members to enjoy our courts. Creating a fun social scene is important and the committee looks to ensure our club is sustainable to all members in years to come.</p>"
@@ -174,8 +174,8 @@ paginate = 10
         <br>
         <br>Phone: 03 9729 0973
         <br>
-        <br><a href="https://goo.gl/maps/T6buFNDCdJ5ufmNy6"><img src = "/hprtc/img/google_map_icon.png" width=44px alt = "Google map" style="vertical-align: text-bottom;"></a>
-        <a href="https://www.facebook.com/hprtc/"><img src = "/hprtc/img/facebook_logo.png" width=40px alt = "Facebook" style="vertical-align: text-bottom; margin-left: 7px;"></a>
+        <br><a href="https://goo.gl/maps/T6buFNDCdJ5ufmNy6"><img src = "/img/google_map_icon.png" width=44px alt = "Google map" style="vertical-align: text-bottom;"></a>
+        <a href="https://www.facebook.com/hprtc/"><img src = "/img/facebook_logo.png" width=40px alt = "Facebook" style="vertical-align: text-bottom; margin-left: 7px;"></a>
       </p>
       """
     latitude = "-37.836193"

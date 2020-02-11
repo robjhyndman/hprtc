@@ -15,7 +15,7 @@
 
                 <div id="contact-message"></div>
 
-                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="POST" action="https://formspree.io/xdoeawlz">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -26,7 +26,7 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">{{ i18n "contactMail" }}</label>
-                                <input type="text" class="form-control" name="email" id="email" required>
+                                <input type="text" class="form-control" name="_replyto" id="email" required>
                             </div>
                         </div>
                         <div class="col-sm-12">
