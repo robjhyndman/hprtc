@@ -6,10 +6,13 @@ serve:
 	hugo server -w
 
 build:
-	hugo 
+	hugo
 
 deploy: build
 	rsync -zrvce 'ssh -p 18765' public/ robjhynd@m80.siteground.biz:public_html/hprtc
+
+copy: build
+	rsync -rvc public oldpublic
 
 clean:
 	rm -rf public
