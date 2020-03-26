@@ -5,6 +5,7 @@ title: New nets thanks to Bendigo Bank
 banner: /media/newnets1.jpg
 tags:
 - grants
+- facilities
 ---
 
 We are delighted that our courts finally have some lovely new nets, thanks to a grant from Bendigo Bank.

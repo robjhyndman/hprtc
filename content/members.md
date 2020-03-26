@@ -16,7 +16,7 @@ Please fill in the club membership form and send it with payment to
 
   [![wordicon](/media/wordicon.png) MS-Word version](https://robjhyndman.com/files/HPRTC-New-Membership-Form.docx)
 
-  [![pdf_icon](/media/pdf_icon.png) PDF version](https://drive.google.com/file/d/1RSQAlz1lMoT8DsZB4m_LLYqve1sg4o5B/view?usp=sharing)
+  [![pdf_icon](/media/pdf_icon.png) PDF version](https://robjhyndman.com/files/HPRTC-New-Membership-Form.pdf)
 
 ### Who requires a membership?
 
