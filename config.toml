@@ -44,6 +44,12 @@ paginate = 10
 
 [[menu.main]]
     parent = "about"
+    name = "code of conduct"
+    url  = "/about/conduct/"
+    weight = 2
+
+[[menu.main]]
+    parent = "about"
     name = "legal"
     url  = "/about/legal/"
     weight = 0
