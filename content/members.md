@@ -14,9 +14,9 @@ Please fill in the club membership form and send it with payment to
 
 > The Treasurer, PO Box 695, Heathmont, 3135. (treasurer@hprtc.org.au)
 
-  [![wordicon](/media/wordicon.png) MS-Word version](https://robjhyndman.com/files/HPRTC-New-Membership-Form.docx)
+  [![wordicon](/media/wordicon.png) MS-Word version](/media/HPRTC-New-Membership-Application.docx)
 
-  [![pdf_icon](/media/pdf_icon.png) PDF version](https://robjhyndman.com/files/HPRTC-New-Membership-Form.pdf)
+  [![pdf_icon](/media/pdf_icon.png) PDF version](/media/HPRTC-New-Membership-Application.pdf)
 
 ### Who requires a membership?
 
