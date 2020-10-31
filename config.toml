@@ -1,4 +1,4 @@
-baseurl = "http://hprtc.org.au/"
+baseurl = "https://hprtc.org.au/"
 title = "Heathmont Parker Reserve Tennis Club"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -126,7 +126,7 @@ unsafe= true
 [[menu.topbar]]
     weight = 1
     name = "Facebook"
-    url = "http://facebook.com/hprtc"
+    url = "https://facebook.com/hprtc"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
