@@ -3,10 +3,10 @@
 all: serve
 
 serve:
-	hugo server -w
+	hugo server -w -F
 
 build:
-	hugo
+	hugo -F
 
 deploy: build
 	rsync -zrvce 'ssh -p 18765' public/ robjhynd@m80.siteground.biz:public_html/hprtc
