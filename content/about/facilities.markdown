@@ -6,9 +6,9 @@ title: Our Facilities
 
 ## Courts
 
-We have six synthetic clay courts, all of which are flood lit. The most recent courts were supplied by [Aste](http://www.aste.com.au/) who did a fantastic job. 
+We have six synthetic clay courts, all of which are flood lit. The most recent courts were supplied by [Aste](http://www.aste.com.au/) who did a fantastic job.
 
-Court and clubhouse hire is subject to availability. 
+Court and clubhouse hire is subject to availability.
 
 These are the following court hire charges for members and visitors who attend with members:
 
@@ -26,7 +26,7 @@ _Visitors who attend with a member:_
 
 ## Usual Schedule
 
- |           | Daytime                                | Nightime                               |
+|           | Daytime                                | Nightime                               |
 |-----------|----------------------------------------|----------------------------------------|
 | Monday    | Mens Social & Coaching                 | Mixed Doubles, Ladies Doubles & Coaching |
 | Tuesday   | Ladies Comp & Coaching                 | Mens Doubles, Ladies Doubles & Coaching |
@@ -37,7 +37,7 @@ _Visitors who attend with a member:_
 
 ## Maintenance
 
-![image alt >](/media/tennis.png) Just like your own home, there are lots of small, and sometimes large, things that go wrong. You, as a member of the club, can help with the maintenance. Some of these things are: attending working bees, not leaving drink bottles and rubbish on the courts, pulling out weeds you find growing on the courts, picking up a handful of leaves from the courts when you see them (and of course putting them in the bin), hanging up the court brooms after you have used them, leaving the drag mats **flat on the ground** after use, reporting any issues that require attention on the notice board in the clubhouse, etc. 
+![image alt >](/media/tennis.png) Just like your own home, there are lots of small, and sometimes large, things that go wrong. You, as a member of the club, can help with the maintenance. Some of these things are: attending working bees, not leaving drink bottles and rubbish on the courts, pulling out weeds you find growing on the courts, picking up a handful of leaves from the courts when you see them (and of course putting them in the bin), hanging up the court brooms after you have used them, leaving the drag mats **flat on the ground** after use, reporting any issues that require attention on the notice board in the clubhouse, etc.
 
 The courts do not normally require bagging between sets. However, they **DO** require bagging at the end of your play session. This is extremely important for the longevity of the courts.
 
