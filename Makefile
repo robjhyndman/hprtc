@@ -1,4 +1,4 @@
-### Build and deploy https://robjhyndman.com
+### Build https://robjhyndman.com
 
 all: serve
 
@@ -7,12 +7,6 @@ serve:
 
 build:
 	hugo -F
-
-deploy: build
-	rsync -zrvce 'ssh -p 18765' public/ robjhynd@m80.siteground.biz:public_html/hprtc
-
-copy: build
-	rsync -rvc public oldpublic
 
 clean:
 	rm -rf public
