@@ -33,7 +33,7 @@ Most teams are often looking for players to fill in for regulars who can’t mak
 **Contacts:**
 
   * [Chris Wishart](mailto:night@hprtc.org.au) on 0401 722 040 
-  * [Don Hamilton](mailto:night1@hprtc.org.au) on 9729 4491
+  * [James Wotherspoon](mailto:night1@hprtc.org.au) on 0407 357 318
 
 Click on the association website address for ladders, fixtures and more.
 

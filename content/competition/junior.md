@@ -14,8 +14,8 @@ Teams are selected at the discretion of the Junior Selection Committee. Each tea
 
 ### Contact Information
 
-**Junior Convener**: James Wotherspoon
-[junior@hprtc.org.au](mailto:junior@hprtc.org.au) or 0407 357 318
+**Junior Convener**: Andrea Johnson
+[junior@hprtc.org.au](mailto:junior@hprtc.org.au) or 0411 606 802
 
 **President**: Sue Moreland
 [president@hprtc.org.au](mailto:president@hprtc.org.au) or 0425 711 364

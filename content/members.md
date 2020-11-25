@@ -29,7 +29,7 @@ Please note: These grace periods do not apply if the adult or junior has been a 
 
 ###  Fees
 
-Please note the fees shown are for July 2019 to June 2020 (**Full year**)
+Please note the fees shown are for July 2020 to June 2021 (**Full year**)
 
 | Membership Type | Annual Fee | Half Year Fee* | Membership definition                                                                                           |
 |----------------|-----------|---------------|-----------------------------------------------------------------------------------------------------------------|
