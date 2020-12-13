@@ -2,6 +2,8 @@
 link: /about/history
 slug: history
 title: Our History
+tags:
+  - history
 ---
 
 HE Parker Reserve Tennis Club when the Heathmont Methodist Tennis Club was granted land alongside the Dandenong Creek at HE Parker Reserve by the Ringwood City Council to form a public tennis club.
