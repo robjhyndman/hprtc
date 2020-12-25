@@ -49,8 +49,6 @@ Congratulations to all the winners of the pre-Xmas tournament.
 1. Boris Eroshenko
 2. Harua Kuroiwa
 
-<img src="/media/Dec_2020_3.jpg" width="60%">
-
 ### Junior D Grade Singles
 
 1. William Wu
@@ -62,6 +60,8 @@ Congratulations to all the winners of the pre-Xmas tournament.
 
 1. Marcus Nield, Seamus Sealey
 2. Alexander Watts, Coby Smith
+
+<img src="/media/Dec_2020_3.jpg" width="60%">
 
 ### Junior B Grade Doubles
 
