@@ -19,7 +19,7 @@ title: Committee Members
 | Mid Week Ladies Rep          | Ros Brereton      | 9729 3259    | ladies@hprtc.org.au              |
 | Saturday Social              | Peter O’Connor    | 0417 144 374 |                                  |
 | Monday Mens' Social          | Peter O’Connor    | 0417 144 374 |                                  |
-| Friday Ladies' Social                | Dianne Nemeth     |              |                                  |
+| Friday Ladies' Social                | Dianne Nemeth     |    0408 303 088          |                                  |
 | General Committee            | Chris Hall        | 0414 355 606 |                                  |
 | General Committee            | Don Hamilton      | 0414 538 336 |                                  |
 | Head Coach                   | Ben Longridge     | 0413 619 028 | coach@hprtc.org.au               |
