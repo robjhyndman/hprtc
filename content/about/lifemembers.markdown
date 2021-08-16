@@ -8,6 +8,8 @@ Life membership is the highest honour our club can bestow on a member and as suc
 
 | Year | Member          |
 |------|-----------------|
+|      | Frank Secomb    |
+|      | Betty Secomb    |
 | 1977 | Graham Hayes    |
 | 1979 | Norm Sanderson  |
 | 1985 | Colin Taylor    |
@@ -27,4 +29,5 @@ Life membership is the highest honour our club can bestow on a member and as suc
 
 &nbsp;
 
-Nominations are considered by the committee annually (if received). If you believe a particular member should be nominated for such an award, please send your recommendation to committee@hprtc.org.au stating the name of the member and the reasons for your recommendation.
+Nominations are considered by the committee annually (if received). If you believe a particular member should be nominated for such an award, please send your recommendation to committee@hprtc.org.au stating the name of the member and the reasons for your recommendation.
+
