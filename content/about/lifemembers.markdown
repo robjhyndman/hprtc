@@ -8,8 +8,8 @@ Life membership is the highest honour our club can bestow on a member and as suc
 
 | Year | Member          |
 |------|-----------------|
-|      | Frank Secomb    |
-|      | Betty Secomb    |
+| 1976 | Frank Secomb    |
+| 1976 | Betty Secomb    |
 | 1977 | Graham Hayes    |
 | 1979 | Norm Sanderson  |
 | 1985 | Colin Taylor    |
