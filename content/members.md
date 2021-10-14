@@ -27,20 +27,18 @@ Please fill in the club membership form and send it with payment to
 
 Please note: These grace periods do not apply if the adult or junior has been a member previously.
 
-###  Fees
+### Fees
 
-Please note the fees shown are for July 2020 to June 2021 (**Full year**)
+Please note the fees shown are for July 2021 to June 2022 (**Full year**)
 
-| Membership Type | Annual Fee | Half Year Fee* | Membership definition                                                                                           |
-|----------------|-----------|---------------|-----------------------------------------------------------------------------------------------------------------|
-| Family         | $300.00   | $150.00       | 1 or 2 adult members and any number of juniors/students from the one family                                     |
-| Adult          | $140.00   | $70.00        | Adult person over the age of 18 at the start of the membership year.                                            |
-| Junior         | $70.00    | $35.00        | A person under the age of 18 years at the start of the membership year.                                         |
-| Non-playing    |  $20.00   |         | Adult person who does not play tennis but wishes to have club affiliation.                                      |
-| Life Member    | $0.00     |          | A member of the club that has been bestowed the honour for their years of service to the club by the committee. |
+| Membership Type | Annual Fee | Membership definition                                                                                           |
+|----------------|-----------|-----------------------------------------------------------------------------------------------------------------|
+| Family         | $300.00   | 1 or 2 adult members and any number of juniors/students from the one family                                     |
+| Adult          | $140.00   | Adult person over the age of 18 at the start of the membership year.                                            |
+| Junior         | $70.00    | A person under the age of 18 years at the start of the membership year.                                         |
+| Non-playing    |  $20.00   | Adult person who does not play tennis but wishes to have club affiliation.                                      |
+| Life Member    | $0.00     | A member of the club that has been bestowed the honour for their years of service to the club by the committee. |
 
-
-_Please note that the half-year fee is only available for members joining after 1st January._
 
 Our club is affiliated with [Tennis Victoria](http://www.tennis.com.au/vic/).  Our affiliation provides all members with personal accident insurance at tennis.
 
