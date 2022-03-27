@@ -7,11 +7,11 @@ title: Committee Members
 | Club Role                    | Name                          | Phone           | Email Address                      |
 | ---------------------------- | ----------------------------- | --------------- | ---------------------------------- |
 | President                    | Sue Cornish                   | 0401 363 647    | president@hprtc.org.au             |
+| Vice President               | James Wotherspoon             | 0407 357 318    | vice.president@hprtc.org.au        |
 | Secretary                    | Erina Wotherspoon             | 0409 868 789    | secretary@hprtc.org.au             |
 | Treasurer                    | Devina Ditchfield             | 0414 773 093    | treasurer@hprtc.org.au             |
-| Vice President               | James Wotherspoon             | 0407 357 318    | vice.president@hprtc.org.au        |
 | Junior Convenor              | Andrea Johnson                | 0411 606 802    | juniors@hprtc.org.au               |
-| Maintenance Convenor         | Mal McDonald                  | 0407 303 407    | maintenance@hprtc.org.au           |
+| Maintenance                  | Mal McDonald                  | 0407 303 407    | maintenance@hprtc.org.au           |
 | Membership and Key Registrar | Chris Wishart                 | 0401 722 040    | key@hprtc.org.au                   |
 | Night Rep                    | Chris Wishart                 | 0401 722 040    | night@hprtc.org.au                 |
 | Night Rep                    | James Wotherspoon             | 0407 357 318    | night1@hprtc.org.au                |
