@@ -6,7 +6,7 @@ slug: juniors-mar2022
 title: "Junior Tennis Update: March 2022"
 banner: "img/ao_2022.png"
 tags:
-  - president's report
+  - juniors
 ---
 
 🎾  Greetings Tennis Families. 🎾 
