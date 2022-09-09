@@ -16,7 +16,6 @@ title: Committee Members
 | Night Rep                     | Chris Wishart      | 0401 722 040   | night@hprtc.org.au            |
 | Night Rep                     | James Wotherspoon  | 0407 357 318   | night1@hprtc.org.au           |
 | Mid Week Ladies Rep           | Ros Brereton       | 9729 3259      | ladies@hprtc.org.au           |
-| Saturday Social               | Erina Wotherspoon  | 0409 868 789   | secretary@hprtc.org.au        |
 | Monday Men's Social           | Don Hamilton       | 0414 538 336   |                               |
 | Friday Ladies' Social         | Dianne Nemeth      | 0408 303 088   |                               |
 | General Committee             | Chris Hall         | 0414 355 606   |                               |
