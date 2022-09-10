@@ -221,10 +221,7 @@ ul.list-style-none {
   margin-bottom: 20px;
 }
 @media (min-width: 1300px) {
-  body.boxed {
-    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/subtle_zebra_3d.png);
-  }
-  body.boxed #all {
+    body.boxed #all {
     position: relative;
     background: #fff;
     width: 1200px;

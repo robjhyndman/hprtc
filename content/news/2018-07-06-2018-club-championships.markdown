@@ -43,8 +43,6 @@ Jamie Cranston
 
 ![](/media/Boys-singles-2018.jpg)
 
-![](/media/P1040796.jpg)
-
 **Girls Singles**
 Ella Beanland
 
