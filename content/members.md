@@ -21,9 +21,9 @@ Please note: These grace periods do not apply if the adult or junior has been a 
 
 | Membership Type | Annual Fee | Membership definition                                                                                           |
 |----------------|-----------|-----------------------------------------------------------------------------------------------------------------|
-| Family         | $300.00   | 1 or 2 adult members and any number of juniors/students from the one family                                     |
-| Adult          | $140.00   | Adult person over the age of 18 at the start of the membership year.                                            |
-| Junior         | $70.00    | A person under the age of 18 years at the start of the membership year.                                         |
+| Family         | $360.00   | 1 or 2 adult members and any number of juniors/students from the one family                                     |
+| Adult          | $170.00   | Adult person over the age of 18 at the start of the membership year.                                            |
+| Junior         | $85.00    | A person under the age of 18 years at the start of the membership year.                                         |
 | Non-playing    |  $20.00   | Adult person who does not play tennis but wishes to have club affiliation.                                      |
 | Life Member    | $0.00     | A member of the club that has been bestowed the honour for their years of service to the club by the committee. |
 
