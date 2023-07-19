@@ -16,9 +16,9 @@ November when our gardens are calling for some attention, the plan is to have a 
 
 The Club has had discussions with Maroondah Council and our lease fee to the council has been increased. Together with other expense increases, we have had to increase our fees for the first time in some years. The fees have been updated on our website and are as follows:
 
-> Family Year Membership $360<br>
-> Adult Year Membership $170<br>
-> Junior Year Membership $85
+* Family Year Membership $360
+* Adult Year Membership $170
+* Junior Year Membership $85
 
 All other fees remain the same. Fees are due on a financial year basis so will be due July 1st 2023 for the following 12 months. Banking details are below, please use your last name (or child’s name if paying a Junior Membership) and Fees when making a payment so committee can allocate accordingly.
 
